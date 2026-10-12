@@ -1,0 +1,10 @@
+# Altium Designer ignore rules
+# Временные папки автосохранения и логов
+History/
+Project Logs*/
+__Previews/
+
+# Временные рабочие файлы Altium
+*.Lock
+*.gdb
+*.AprBkp
